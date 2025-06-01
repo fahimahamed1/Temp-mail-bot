@@ -23,7 +23,7 @@ A **Telegram bot** that lets users generate and manage temporary email addresses
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/temp-mail-telegram-bot.git
+git clone https://github.com/fahimahamed1/temp-mail-telegram-bot.git
 cd temp-mail-telegram-bot
 ```
 
