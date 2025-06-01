@@ -1,0 +1,17 @@
+{
+  "name": "telegram-temp-mail-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot to generate and manage temporary emails using mail.tm API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "*",
+    "express": "*",
+    "node-telegram-bot-api": "*",
+    "path": "*"
+  },
+  "author": "Fahim Ahamed",
+  "license": "MIT"
+}
